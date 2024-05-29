@@ -7,8 +7,10 @@
 #### Computer Vision Tasks: Object detection, object recognition, classification, counting, segmentation
 
 ## Education
-- MSc in Computer Vision: CGPA: 3.67/4.0 | Mohamed bin Zayed University of Artificial Intelligence Abu Dhabi, UAE | Fully-funded Scholarship (_Jan. 2021 – Jan. 2023_)
-- BSc in Computer Science: CGPA: 3.35/4.0 | Nazarbayev University Astana, Kazakhstan | Fully-funded Scholarship (_Jul. 2016 – Jun. 2020_)
+- MSc in Computer Vision @ Mohamed bin Zayed University of Artificial Intelligence | Abu Dhabi, UAE | Fully-funded Scholarship (_Jan. 2021 – Jan. 2023_)
+    - CGPA: 3.67/4.0 
+- BSc in Computer Science @ Nazarbayev University | Astana, Kazakhstan | Fully-funded Scholarship (_Jul. 2016 – Jun. 2020_)
+    - CGPA: 3.35/4.0 
 
 ## Work Experience
 **Research Assistant @ Zayed University (Remote contract) | Abu Dhabi, UAE (_June 2023 - September 2023_)** 
@@ -35,9 +37,8 @@ Sentiment analysis web interface using VaderSentiment with text parsed from pdf 
 
 ### Blood Cells Classification and Localization | Python, PyTorch, Git, Yolov5
 
-Obtained 4.3\% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells 
+Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells 
 
 ![proposed_vs_base](https://github.com/Aydana1/portfolio/assets/23297062/b94da8bb-92d6-4ecd-bfe3-accf7a854a85)
 ![inference_runtime](https://github.com/Aydana1/portfolio/assets/23297062/414462b4-6492-43c4-b680-17d89612c31b)
-![yolov5_network](https://github.com/Aydana1/portfolio/assets/23297062/e9aa2985-5fb3-437b-be15-52ae1702c8bd)
 ![pr_curve](https://github.com/Aydana1/portfolio/assets/23297062/99aade97-fa79-4f1a-ae7e-c48671a6c098)
