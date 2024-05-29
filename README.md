@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, PyTorch/TensorFlow, MLOPs, ETL, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn,
-#### OpenCV, NLTK, spaCy, Streamlit, Git, GitHub, Linux, REST APIs, OOP, Data Structures & Algorithms, Excel,
-#### SQL, Microsoft Azure, PowerBI, HuggingFace, C/C++, Java, JavaScript, HTML/CSS, Artificial Intelligence,
-#### Machine Learning, Deep Learning, Natural Language Processing, Language Models, Transformers, Generative AI,
-#### Data Visualization, Data Analysis, No SQL, MongoDB, Firebase, Figma
+#### Programming Languages: Python, C/C++, Java, JavaScript
+#### Libraries: PyTorch/TensorFlow, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, OpenCV, NLTK, spaCy, Streamlit
+#### Other: MLOPs, ETL, Git, GitHub, Linux, REST APIs, SQL, Microsoft Azure, PowerBI, HuggingFace, HTML5/CSS3, OOP, Data Structures & Algorithms, Excel
+#### Key Words: Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Transformers, Generative AI, Data Visualization, Data Analysis
+#### Computer Vision Tasks: Object detection, object recognition, classification, counting, segmentation
 
 ## Education
 - MSc in Computer Vision: CGPA: 3.67/4.0 | Mohamed bin Zayed University of Artificial Intelligence Abu Dhabi, UAE | Fully-funded Scholarship (_Jan. 2021 – Jan. 2023_)
@@ -18,6 +18,14 @@
 **Machine Learning Engineer (R&D) @ FortyGuard Tech (Internship) | Abu Dhabi, UAE (_June 2023 – July 2023_)**
 - Utilized OS-Climate platform to analyze climate data for efficient data pipeline design
 - Assessed thermal comfort index datasets globally for indoor/outdoor environments
+
+**Research Assistant @ Mohamed bin Zayed University of Artificial Intelligence | Abu Dhabi, UAE (_February 2023 -- July 2023_)**
+- Enhanced 3D detection performance of indoor scene objects using PyTorch and Transformer architecture
+- Achieved significant improvement in small-size category detection: 3.51% (picture) and 1.4% (garbage bin)
+
+**Computer Vision Engineer @ AD Ports Group, Maqta Gateway (Internship) | Abu Dhabi, UAE} (_October 2022 -- December 2022_)**
+- Worked on Automated Cargo Recognition and Counting System to improve the operational efficiency of the port
+- Trained YOLOv5l model on custom dataset increasing accuracy from 95.9% to 98.8%
 
 ## Projects
 ### PDF Sentiment Analyzer | Python, Streamlit, tabula, pandas, NLTK, spaCy, HuggingFace, Transformers
