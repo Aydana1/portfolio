@@ -7,10 +7,10 @@
 #### Computer Vision Tasks: Object detection, object recognition, classification, counting, segmentation
 
 ## Education
-- MSc in Computer Vision @ Mohamed bin Zayed University of Artificial Intelligence | Abu Dhabi, UAE | Fully-funded Scholarship (_Jan. 2021 – Jan. 2023_)
-    - CGPA: 3.67/4.0 
-- BSc in Computer Science @ Nazarbayev University | Astana, Kazakhstan | Fully-funded Scholarship (_Jul. 2016 – Jun. 2020_)
-    - CGPA: 3.35/4.0 
+MSc in Computer Vision @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae)  (_Jan. 2021 – Jan. 2023_)
+- Fully-funded Scholarship, CGPA: 3.67/4.0  
+BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016 – Jun. 2020_)
+- Fully-funded Scholarship, CGPA: 3.35/4.0 
 
 ## Work Experience
 **Research Assistant @ Zayed University (Remote contract) | Abu Dhabi, UAE (_June 2023 - September 2023_)** 
@@ -31,7 +31,7 @@
 
 ## Projects
 ### PDF Sentiment Analyzer | Python, Streamlit, tabula, pandas, NLTK, spaCy, HuggingFace, Transformers
-[Link]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Aydana1/NLP_Sentiment_analysis))
+[Link](https://github.com/Aydana1/NLP_Sentiment_analysis)
 
 Sentiment analysis web interface using VaderSentiment with text parsed from pdf file uploaded to local host 
 
