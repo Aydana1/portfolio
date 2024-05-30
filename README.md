@@ -57,7 +57,7 @@ Sentiment analysis web interface using VaderSentiment with text parsed from pdf 
 ### [Blood Cells Classification and Localization](https://github.com/Aydana1/Enhancing_YOLOv5l) | _Python, PyTorch, Git, Yolov5_
 
 Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells 
-<img align="left" width="250" height="150" src="https://github.com/Aydana1/portfolio/assets/23297062/b94da8bb-92d6-4ecd-bfe3-accf7a854a85">
+<img align="center" width="250" height="150" src="https://github.com/Aydana1/portfolio/assets/23297062/b94da8bb-92d6-4ecd-bfe3-accf7a854a85">
 
 ### Large-Scale Aerial Image Recognition | _Python, PyTorch, Detectron2, Git_
 
