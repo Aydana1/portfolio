@@ -1,8 +1,8 @@
-title: Portfolio
+title: Aidana Nurakhmetova
 author: Aidana Nurakhmetova
 logo: assets/img/main_photo.jpeg
 description: Machine Learning Engineer
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
 
 navbar-links:
