@@ -5,6 +5,8 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 
 ### Social Links
 [LinkedIn](https://www.linkedin.com/in/nurakhmetova/)
+<img width="50" height="50" src="https://github.com/Aydana1/portfolio/assets/img/LinkedIN_black.png">
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=yfIe898AAAAJ)
 
 #### Programming Languages: Python, C/C++, Java, JavaScript
@@ -65,7 +67,7 @@ Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Sol
 
 ### [Large-Scale Aerial Image Recognition](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing) | _Python, PyTorch, Detectron2, Git_
 
-<img align="left" width="150" height="150" src="https://github.com/Aydana1/portfolio/assets/img/faster-rcnn.png">
+<img width="150" height="150" src="https://github.com/Aydana1/portfolio/assets/img/faster-rcnn.png">
 
 Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9\% on a large-scale aerial dataset
 
