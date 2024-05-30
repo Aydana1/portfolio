@@ -69,7 +69,7 @@ Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Sol
 
 <img width="150" height="150" src=assets/img/faster-rcnn.png>
 
-Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9\% on a large-scale aerial dataset
+Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9% on a large-scale aerial dataset
 
 ### [Efficient Human Pose Estimation](https://mbzuaiac-my.sharepoint.com/:p:/g/personal/fatima_albreiki_mbzuai_ac_ae/ET2Fa51ZLStCgRFH_NYfdbgB2Uoqm2YxpkeXx-cd8_rvng?e=lqwldkhttps://github.com/Aydana1/TrainTicketing) | _Python, PyTorch_ 
 
