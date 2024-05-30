@@ -57,15 +57,18 @@ Sentiment analysis web interface using VaderSentiment with text parsed from pdf 
 ### [Blood Cells Classification and Localization](https://github.com/Aydana1/Enhancing_YOLOv5l) | _Python, PyTorch, Git, Yolov5_
 
 Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells 
-![proposed_vs_base](https://github.com/Aydana1/portfolio/assets/23297062/b94da8bb-92d6-4ecd-bfe3-accf7a854a85)
+![proposed_vs_base](assets/img/yolo_vs_base.png)
 
 ### Large-Scale Aerial Image Recognition | _Python, PyTorch, Detectron2, Git_
 
 Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9\% on a large-scale aerial dataset
+![proposed_vs_base](assets/img/faster-rcnn.png)
 
 ### Efficient Human Pose Estimation | _Python, PyTorch_ 
 
 Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the Bottleneck. Improved the training speed by 25%
+
+![proposed_vs_base](assets/img/pose-est.png)
 
 ### Train Ticket Reservation | _Java, SQL, MySQL, Git, GUI_
 
