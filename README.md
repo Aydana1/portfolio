@@ -8,11 +8,12 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=yfIe898AAAAJ)
 
-#### Programming Languages: Python, C/C++, Java, JavaScript
-#### Libraries: PyTorch/TensorFlow, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, OpenCV, NLTK, spaCy, Streamlit
-#### Other: MLOPs, ETL, Git, GitHub, Linux, REST APIs, SQL, Microsoft Azure, PowerBI, HuggingFace, HTML5/CSS3, OOP, Data Structures & Algorithms, Excel
-#### Key Words: Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Transformers, Generative AI, Data Visualization, Data Analysis
-#### Computer Vision Tasks: Object detection, object recognition, classification, counting, segmentation
+### Technical Skills
+**Programming Languages:** Python, C/C++, Java, JavaScript
+**Libraries:** PyTorch/TensorFlow, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, OpenCV, NLTK, spaCy, Streamlit
+**Other:** MLOPs, ETL, Git, GitHub, Linux, REST APIs, SQL, Microsoft Azure, PowerBI, HuggingFace, HTML5/CSS3, OOP, Data Structures & Algorithms, Excel
+**Key Words:** Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Transformers, Generative AI, Data Visualization, Data Analysis
+**Computer Vision Tasks:** Object detection, object recognition, classification, counting, segmentation
 
 ## Education
 - MSc in Computer Vision @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae)  (_Jan. 2021 – Jan. 2023_)
