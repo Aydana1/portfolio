@@ -27,37 +27,37 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Fully-funded Scholarship, CGPA: 3.35/4.0 
 
 ## Work Experience
-**Research Assistant @ [Zayed University](https://zu.ac.ae) | Abu Dhabi, UAE (_June 2023 - September 2023_)** 
+**Research Assistant @ [Zayed University](https://zu.ac.ae) (_June 2023 - September 2023_)** 
 - Composed a survey paper on privacy and trust issues in blockchain and edge computing resource allocation
 - Collaborated with a team to analyze and present data from 50+ surveys, leading to new research insights
 
-**Machine Learning Engineer (R&D) @ [FortyGuard Tech](https://fortyguard.com) | Abu Dhabi, UAE (_June 2023 – July 2023_)**
+**Machine Learning Engineer (R&D) @ [FortyGuard Tech](https://fortyguard.com) (_June 2023 – July 2023_)**
 - Utilized OS-Climate platform to analyze climate data for efficient data pipeline design
 - Assessed thermal comfort index datasets globally for indoor/outdoor environments
 
-**Research Assistant @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae) | Abu Dhabi, UAE (_February 2023 -- July 2023_)**
+**Research Assistant @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae) (_February 2023 -- July 2023_)**
 - Enhanced 3D detection performance of indoor scene objects using PyTorch and Transformer architecture
 - Achieved significant improvement in small-size category detection: 3.51% (picture) and 1.4% (garbage bin)
 
-**Computer Vision Engineer @ AD Ports Group, Maqta Gateway | Abu Dhabi, UAE (_October 2022 -- December 2022_)**
+**Computer Vision Engineer @ AD Ports Group, Maqta Gateway (_October 2022 -- December 2022_)**
 - Worked on Automated Cargo Recognition and Counting System to improve the operational efficiency of the port
 - Trained YOLOv5l model on custom dataset increasing accuracy from 95.9% to 98.8%
 
-**Machine Learning Engineer @ Nazarbayev University | Astana, Kazakhstan (_January 2020 -- January 2021_)**
+**Machine Learning Engineer @ Nazarbayev University (_January 2020 -- January 2021_)**
 - Created an end-to-end ensemble of Random Forest Classifiers for time-series anomaly detection in health data
 - Obtained at least 79\% accuracy and 20\% false positive rate. Published the article in Internet of Things journal
 
-**Visiting Student Intern @ King Abdullah University of Science and Technology, NANOvis Group | Thuwal, Saudi Arabia (_May 2019 -- November 2019_)**
+**Visiting Student Intern @ King Abdullah University of Science and Technology, NANOvis Group (_May 2019 -- November 2019_)**
 - Worked on cell visualization and molecular graphics project
 - Developed an automated traversal of a 3D scene of biological structures using C++ and Qt framework
 
-**Front-End Software Engineer @ KazDream Technologies LLC | Astana, Kazakhstan (_February 2019 -- March 2019_)**
+**Front-End Software Engineer @ KazDream Technologies LLC (_February 2019 -- March 2019_)**
 - Implemented a login page, input validations, and a date-picker of the website using JavaScript, HTML5/CSS3, Vue.js. Logged outputs in GitLab, reviewed and fixed codes. Captured data from 3rd party APIs
 
-**Undergraduate Researcher @ Nazarbayev University, Robotics Lab | Astana, Kazakhstan (_September 2018 -- December 2018_)**
+**Undergraduate Researcher @ Nazarbayev University, Robotics Lab (_September 2018 -- December 2018_)**
 - Developed an [Android tablet app](https://github.com/Aydana1/Android_App_Nao_RemoteControl) in Java for medical staff to interact with a humanoid robot NAO to assist children with autism spectrum disorder. Established TCP connection between a tablet and  Choregraphe software
 
-**Mobile Developer @ nFactorial School | Almaty, Kazakhstan (_June 2018 -- August 2018_)**
+**Mobile Developer @ nFactorial School (_June 2018 -- August 2018_)**
 - Created a React Native app [SpeechArt](https://github.com/Aydana1/SpeechArt)(1000+ downloads on Play Store) for correcting speech defects with tongue-twisters and became one of 6 finalists out of 100
 
 ## Projects
