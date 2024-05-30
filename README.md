@@ -27,15 +27,15 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Fully-funded Scholarship, CGPA: 3.35/4.0 
 
 ## Work Experience
-**Research Assistant @ Zayed University | Abu Dhabi, UAE (_June 2023 - September 2023_)** 
+**Research Assistant @ [Zayed University](https://zu.ac.ae) | Abu Dhabi, UAE (_June 2023 - September 2023_)** 
 - Composed a survey paper on privacy and trust issues in blockchain and edge computing resource allocation
 - Collaborated with a team to analyze and present data from 50+ surveys, leading to new research insights
 
-**Machine Learning Engineer (R&D) @ FortyGuard Tech | Abu Dhabi, UAE (_June 2023 – July 2023_)**
+**Machine Learning Engineer (R&D) @ [FortyGuard Tech](https://fortyguard.com) | Abu Dhabi, UAE (_June 2023 – July 2023_)**
 - Utilized OS-Climate platform to analyze climate data for efficient data pipeline design
 - Assessed thermal comfort index datasets globally for indoor/outdoor environments
 
-**Research Assistant @ Mohamed bin Zayed University of Artificial Intelligence | Abu Dhabi, UAE (_February 2023 -- July 2023_)**
+**Research Assistant @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae) | Abu Dhabi, UAE (_February 2023 -- July 2023_)**
 - Enhanced 3D detection performance of indoor scene objects using PyTorch and Transformer architecture
 - Achieved significant improvement in small-size category detection: 3.51% (picture) and 1.4% (garbage bin)
 
