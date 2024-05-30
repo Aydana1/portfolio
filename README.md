@@ -68,11 +68,11 @@ Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small ob
 
 Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the Bottleneck. Improved the training speed by 25%
 
-### Train Ticket Reservation}} | Java, SQL, MySQL, Git, GUI
+### Train Ticket Reservation | Java, SQL, MySQL, Git, GUI
 
 Database Systems course project: desktop app for reserving tickets for a train seat using Java and SQL
 
-## Awards & Scholarships}
+## Awards & Scholarships
 - 1st place in Pioneers Industry 4.0 Data Science Hackathon, [EDGE and MoIAT of UAE](https://edgegroup.ae/news/ministry-industry-and-advanced-technology-and-edge-launch-pioneers-40-hackathon-series-advance), November 2022
 - 3rd place in ‘AI for Good’ Hackathon, Microsoft & NU, March 2019
 - Big Data workshop by CS Prof. at Stanford, Jennifer Widom, NU, September 2019
@@ -83,3 +83,10 @@ Database Systems course project: desktop app for reserving tickets for a train s
 - Nurakhmetova, A.; Lahoud, J. and Cholakkal, H. (2023). Data-Efficient Transformer-based 3D Object Detection. In Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2023) - Volume 4: VISAPP; SciTePress, pages 615-623. [Link](https://doi.org/10.5220/0011673200003417)
 - Yazici, A., Zhumabekova, D., Nurakhmetova, A., Yergaliyev, Zh., Yatbaz, H. Y.,  Makisheva, Z., Lewis, M. & Ever, E. (2023). A Smart e-Health Framework for Monitoring the Health of the Elderly and Disabled. Internet of Things, Volume 24. [Link](https://doi.org/10.1016/j.iot.2023.100971)
 - Sandygulova, A., Zhexenova, Z., Tleubayev, B., Nurakhmetova, A., Zhumabekova, D., Assylgali, I., Rzagaliyev, Y. \& Zhakenova, A. (2019). Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD. Paladyn, Journal of Behavioral Robotics, 10(1), 330-345. [Link](https://doi.org/10.1515/pjbr-2019-0027)
+
+## Certifications
+- Deep Learning Specialization (Coursera) 
+- Bertelsmann Data Science Scholarship program (Udacity)
+- Web Developer BootCamp (Udemy)
+- Python Object Basics: Functions, Recursion, and Objects (Coursera)
+- Python Data Structures (Coursera)
