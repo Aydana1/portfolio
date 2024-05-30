@@ -5,10 +5,10 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 
 ### Social Links
 [LinkedIn](https://www.linkedin.com/in/nurakhmetova/)
-<img width="50" height="50" src=assets/img/LinkedIN_black.png>
+![img](assets/img/LinkedIN_black.png)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=yfIe898AAAAJ)
-<img width="50" height="50" src=assets/img/scholar.jpg>
+![img](assets/img/scholar.jpg)
 
 #### Programming Languages: Python, C/C++, Java, JavaScript
 #### Libraries: PyTorch/TensorFlow, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, OpenCV, NLTK, spaCy, Streamlit
