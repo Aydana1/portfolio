@@ -6,6 +6,8 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 <a href="https://www.linkedin.com/in/nurakhmetova/" target="_blank"><img src="https://github.com/Aydana1/portfolio/assets/img/LinkedIN_black.png" 
 alt="" width="50" height="50" border="10" /></a>
 
+<img width="50" height="50" src="https://github.com/Aydana1/portfolio/assets/img/LinkedIN_black.png">
+
 #### Programming Languages: Python, C/C++, Java, JavaScript
 #### Libraries: PyTorch/TensorFlow, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, OpenCV, NLTK, spaCy, Streamlit
 #### Other: MLOPs, ETL, Git, GitHub, Linux, REST APIs, SQL, Microsoft Azure, PowerBI, HuggingFace, HTML5/CSS3, OOP, Data Structures & Algorithms, Excel
