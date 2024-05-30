@@ -57,20 +57,20 @@ Sentiment analysis web interface using VaderSentiment with text parsed from pdf 
 ### [Blood Cells Classification and Localization](https://github.com/Aydana1/Enhancing_YOLOv5l) | _Python, PyTorch, Git, Yolov5_
 
 Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells 
-![proposed_vs_base](assets/img/yolo_vs_base.png)
+![img](assets/img/yolo_vs_base.png)
 
-### Large-Scale Aerial Image Recognition | _Python, PyTorch, Detectron2, Git_
+### [Large-Scale Aerial Image Recognition](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing) | _Python, PyTorch, Detectron2, Git_
 
 Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9\% on a large-scale aerial dataset
-![proposed_vs_base](assets/img/faster-rcnn.png)
+![img](assets/img/faster-rcnn.png)
 
-### Efficient Human Pose Estimation | _Python, PyTorch_ 
+### [Efficient Human Pose Estimation](https://mbzuaiac-my.sharepoint.com/:p:/g/personal/fatima_albreiki_mbzuai_ac_ae/ET2Fa51ZLStCgRFH_NYfdbgB2Uoqm2YxpkeXx-cd8_rvng?e=lqwldkhttps://github.com/Aydana1/TrainTicketing) | _Python, PyTorch_ 
 
 Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the Bottleneck. Improved the training speed by 25%
 
-![proposed_vs_base](assets/img/pose-est.png)
+![img](assets/img/pose-est.png)
 
-### Train Ticket Reservation | _Java, SQL, MySQL, Git, GUI_
+### [Train Ticket Reservation](https://github.com/Aydana1/TrainTicketing) | _Java, SQL, MySQL, Git, GUI_
 
 Database Systems course project: desktop app for reserving tickets for a train seat using Java and SQL
 
