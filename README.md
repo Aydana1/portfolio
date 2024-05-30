@@ -50,25 +50,24 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 - Created a React Native app [SpeechArt](https://github.com/Aydana1/SpeechArt)(1000+ downloads on Play Store) for correcting speech defects with tongue-twisters and became one of 6 finalists out of 100
 
 ## Projects
-### PDF Sentiment Analyzer | Python, Streamlit, tabula, pandas, NLTK, spaCy, HuggingFace, Transformers
-[Link](https://github.com/Aydana1/NLP_Sentiment_analysis)
+### [PDF Sentiment Analyzer](https://github.com/Aydana1/NLP_Sentiment_analysis) | _Python, Streamlit, tabula, pandas, NLTK, spaCy, HuggingFace, Transformers_
 
 Sentiment analysis web interface using VaderSentiment with text parsed from pdf file uploaded to local host 
 
-### Blood Cells Classification and Localization | Python, PyTorch, Git, Yolov5
+### [Blood Cells Classification and Localization](https://github.com/Aydana1/Enhancing_YOLOv5l) | _Python, PyTorch, Git, Yolov5_
 
 Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells 
-![proposed_vs_base](https://github.com/Aydana1/portfolio/assets/23297062/b94da8bb-92d6-4ecd-bfe3-accf7a854a85)
+<img align="left" width="250" height="150" src="https://github.com/Aydana1/portfolio/assets/23297062/b94da8bb-92d6-4ecd-bfe3-accf7a854a85">
 
-### Large-Scale Aerial Image Recognition | Python, PyTorch, Detectron2, Git
+### Large-Scale Aerial Image Recognition | _Python, PyTorch, Detectron2, Git_
 
 Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9\% on a large-scale aerial dataset
 
-### Efficient Human Pose Estimation | Python, PyTorch 
+### Efficient Human Pose Estimation | _Python, PyTorch_ 
 
 Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the Bottleneck. Improved the training speed by 25%
 
-### Train Ticket Reservation | Java, SQL, MySQL, Git, GUI
+### Train Ticket Reservation | _Java, SQL, MySQL, Git, GUI_
 
 Database Systems course project: desktop app for reserving tickets for a train seat using Java and SQL
 
