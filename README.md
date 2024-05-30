@@ -94,9 +94,9 @@ Database Systems course project: desktop app for reserving tickets for a train s
 - Bertelsmann Data Science Scholarship program, Udacity, May 2018
 
 ## Publications
-- Nurakhmetova, A.; Lahoud, J. and Cholakkal, H. (2023). Data-Efficient Transformer-based 3D Object Detection. In Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2023) - Volume 4: VISAPP; SciTePress, pages 615-623. [Link](https://doi.org/10.5220/0011673200003417)
-- Yazici, A., Zhumabekova, D., Nurakhmetova, A., Yergaliyev, Zh., Yatbaz, H. Y.,  Makisheva, Z., Lewis, M. & Ever, E. (2023). A Smart e-Health Framework for Monitoring the Health of the Elderly and Disabled. Internet of Things, Volume 24. [Link](https://doi.org/10.1016/j.iot.2023.100971)
-- Sandygulova, A., Zhexenova, Z., Tleubayev, B., Nurakhmetova, A., Zhumabekova, D., Assylgali, I., Rzagaliyev, Y. \& Zhakenova, A. (2019). Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD. Paladyn, Journal of Behavioral Robotics, 10(1), 330-345. [Link](https://doi.org/10.1515/pjbr-2019-0027)
+- Nurakhmetova, A.; Lahoud, J. and Cholakkal, H. (2023). _Data-Efficient Transformer-based 3D Object Detection_. In Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2023) - Volume 4: VISAPP; SciTePress, pages 615-623. [Link](https://doi.org/10.5220/0011673200003417)
+- Yazici, A., Zhumabekova, D., Nurakhmetova, A., Yergaliyev, Zh., Yatbaz, H. Y.,  Makisheva, Z., Lewis, M. & Ever, E. (2023). _A Smart e-Health Framework for Monitoring the Health of the Elderly and Disabled_. Internet of Things, Volume 24. [Link](https://doi.org/10.1016/j.iot.2023.100971)
+- Sandygulova, A., Zhexenova, Z., Tleubayev, B., Nurakhmetova, A., Zhumabekova, D., Assylgali, I., Rzagaliyev, Y. \& Zhakenova, A. (2019). _Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD_. Paladyn, Journal of Behavioral Robotics, 10(1), 330-345. [Link](https://doi.org/10.1515/pjbr-2019-0027)
 
 ## Certifications
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9MB8V8BM8FKL) (Coursera)
