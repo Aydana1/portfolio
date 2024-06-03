@@ -1,4 +1,4 @@
-# Data Scientist (Computer Vision) and Machine Learning Engineer
+# Data Scientist
 
 ## About Me
 I studied Computer Science in my bachelor degree at Nazarbayev University in Kazakhstan 🇰🇿. I did research in robotics 🤖 during my junior year and had my first paper published. I had summer internship at KAUST, Saudi Arabia in molecular visualization 🧬 and computer graphics. I participated in hackathons, did side projects and launched a React Native mobile app.  I completed MSc in Computer Vision at MBZUAI in Abu Dhabi and successfully defended my thesis 👩🏻‍🎓. My thesis result was accepted as a conference paper to VISAPP 2023 (part of VISSIGRAPP).
