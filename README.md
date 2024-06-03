@@ -39,25 +39,25 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Enhanced 3D detection performance of indoor scene objects using PyTorch and Transformer architecture
 - Achieved significant improvement in small-size category detection: 3.51% (picture) and 1.4% (garbage bin)
 
-**Computer Vision Engineer @ AD Ports Group, Maqta Gateway (_October 2022 -- December 2022_)**
+**Computer Vision Engineer @ [AD Ports Group](https://www.adportsgroup.com/), Maqta Gateway (_October 2022 -- December 2022_)**
 - Worked on Automated Cargo Recognition and Counting System to improve the operational efficiency of the port
 - Trained YOLOv5l model on custom dataset increasing accuracy from 95.9% to 98.8%
 
-**Machine Learning Engineer @ Nazarbayev University (_January 2020 -- January 2021_)**
+**Machine Learning Engineer @ [Nazarbayev University](https://nu.edu.kz/) (_January 2020 -- January 2021_)**
 - Created an end-to-end ensemble of Random Forest Classifiers for time-series anomaly detection in health data
 - Obtained at least 79\% accuracy and 20\% false positive rate. Published the article in Internet of Things journal
 
-**Visiting Student Intern @ King Abdullah University of Science and Technology, NANOvis Group (_May 2019 -- November 2019_)**
+**Visiting Student Intern @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/), NANOvis Group (_May 2019 -- November 2019_)**
 - Worked on cell visualization and molecular graphics project
 - Developed an automated traversal of a 3D scene of biological structures using C++ and Qt framework
 
-**Front-End Software Engineer @ KazDream Technologies LLC (_February 2019 -- March 2019_)**
+**Front-End Software Engineer @ [KazDream Technologies LLC](https://www.kazdream.kz) (_February 2019 -- March 2019_)**
 - Implemented a login page, input validations, and a date-picker of the website using JavaScript, HTML5/CSS3, Vue.js. Logged outputs in GitLab, reviewed and fixed codes. Captured data from 3rd party APIs
 
-**Undergraduate Researcher @ Nazarbayev University, Robotics Lab (_September 2018 -- December 2018_)**
+**Undergraduate Researcher @ [Nazarbayev University](https://nu.edu.kz/), Robotics Lab (_September 2018 -- December 2018_)**
 - Developed an [Android tablet app](https://github.com/Aydana1/Android_App_Nao_RemoteControl) in Java for medical staff to interact with a humanoid robot NAO to assist children with autism spectrum disorder. Established TCP connection between a tablet and  Choregraphe software
 
-**Mobile Developer @ nFactorial School (_June 2018 -- August 2018_)**
+**Mobile Developer @ [nFactorial School](https://www.nfactorial.school/) (_June 2018 -- August 2018_)**
 - Created a React Native app [SpeechArt](https://github.com/Aydana1/SpeechArt)(1000+ downloads on Play Store) for correcting speech defects with tongue-twisters and became one of 6 finalists out of 100
 
 ## Projects
@@ -95,6 +95,7 @@ Database Systems course project: desktop app for reserving tickets for a train s
 
 ## Publications
 - Nurakhmetova, A.; Lahoud, J. and Cholakkal, H. (2023). _Data-Efficient Transformer-based 3D Object Detection_. In Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2023) - Volume 4: VISAPP; SciTePress, pages 615-623. [Link](https://doi.org/10.5220/0011673200003417)
+![img](assets/img/visapp_3d.png)
 - Yazici, A., Zhumabekova, D., Nurakhmetova, A., Yergaliyev, Zh., Yatbaz, H. Y.,  Makisheva, Z., Lewis, M. & Ever, E. (2023). _A Smart e-Health Framework for Monitoring the Health of the Elderly and Disabled_. Internet of Things, Volume 24. [Link](https://doi.org/10.1016/j.iot.2023.100971)
 - Sandygulova, A., Zhexenova, Z., Tleubayev, B., Nurakhmetova, A., Zhumabekova, D., Assylgali, I., Rzagaliyev, Y. \& Zhakenova, A. (2019). _Interaction design and methodology of robot-assisted therapy for children with severe ASD and ADHD_. Paladyn, Journal of Behavioral Robotics, 10(1), 330-345. [Link](https://doi.org/10.1515/pjbr-2019-0027)
 
