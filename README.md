@@ -89,6 +89,12 @@ Changed original Stacked Hourglass architecture by adding dilated and depthwise 
 
 ![img](assets/img/pose-est.png)
 
+### Retinal eye disease detection with Convolutional Neural Networks
+
+Experimented with various CNN networks such as LeNet, ResNet variants (ResNet32, ResNet50, ResNet101), VGG in PyTorch
+
+![img](assets/img/retinopathy.jpeg)
+
 ### [Train Ticket Reservation](https://github.com/Aydana1/TrainTicketing) | _Java, SQL, MySQL, Git, GUI_
 
 Database Systems course project: desktop app for reserving tickets for a train seat using Java and SQL
