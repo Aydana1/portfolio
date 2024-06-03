@@ -52,7 +52,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 **Visiting Student Intern @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/), NANOvis Group (_May 2019 -- November 2019_)**
 - Worked on cell visualization and molecular graphics project
 - Developed an automated traversal of a 3D scene of biological structures using C++ and Qt framework
-![img](assets/img/kaust.png)
+![img](assets/img/kaust.jpeg)
 
 **Front-End Software Engineer @ [KazDream Technologies LLC](https://www.kazdream.kz) (_February 2019 -- March 2019_)**
 - Implemented a login page, input validations, and a date-picker of the website using JavaScript, HTML5/CSS3, Vue.js. Logged outputs in GitLab, reviewed and fixed codes. Captured data from 3rd party APIs
