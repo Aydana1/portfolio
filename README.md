@@ -85,7 +85,7 @@ Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small ob
 
 ### [Efficient Human Pose Estimation](https://mbzuaiac-my.sharepoint.com/:p:/g/personal/fatima_albreiki_mbzuai_ac_ae/ET2Fa51ZLStCgRFH_NYfdbgB2Uoqm2YxpkeXx-cd8_rvng?e=lqwldkhttps://github.com/Aydana1/TrainTicketing) | _Python, PyTorch_ 
 
-Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the Bottleneck. Improved the training speed by 25%
+Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the ResNet Bottleneck. Improved the training speed by 25%
 
 ![img](assets/img/pose-est.png)
 
