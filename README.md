@@ -51,7 +51,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 
 **Visiting Student Intern @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/), NANOvis Group (_May 2019 -- November 2019_)**
 - Worked on cell visualization and molecular graphics project
-- Developed an automated traversal of a 3D scene of biological structures using C++ and Qt framework
+- Developed an automated traversal of a 3D scene of HIV virus structures (RNA, DNA, protein cells) using C++ and Qt framework
 ![img](assets/img/kaust.jpeg)
 
 **Front-End Software Engineer @ [KazDream Technologies LLC](https://www.kazdream.kz) (_February 2019 -- March 2019_)**
