@@ -101,7 +101,6 @@ Database Systems course project: desktop app for reserving tickets for a train s
 
 ## Awards & Scholarships
 - 1st place in Pioneers Industry 4.0 Data Science Hackathon, [EDGE and MoIAT of UAE](https://edgegroup.ae/news/ministry-industry-and-advanced-technology-and-edge-launch-pioneers-40-hackathon-series-advance), November 2022
-![img](assets/img/edge-696x464.jpg)
 - 3rd place in ‘AI for Good’ Hackathon, Microsoft & NU, March 2019
 - Big Data workshop by CS Prof. at Stanford, Jennifer Widom, NU, September 2019
 - Finalist of Mobile App Dev. Bootcamp @ [nFactorial School](https://www.nfactorial.school/), June - August 2018
