@@ -42,23 +42,28 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 **Computer Vision Engineer @ [AD Ports Group](https://www.adportsgroup.com/), Maqta Gateway (_October 2022 -- December 2022_)**
 - Worked on Automated Cargo Recognition and Counting System to improve the operational efficiency of the port
 - Trained YOLOv5l model on custom dataset increasing accuracy from 95.9% to 98.8%
+![img](assets/img/adports.png)
 
 **Machine Learning Engineer @ [Nazarbayev University](https://nu.edu.kz/) (_January 2020 -- January 2021_)**
 - Created an end-to-end ensemble of Random Forest Classifiers for time-series anomaly detection in health data
 - Obtained at least 79\% accuracy and 20\% false positive rate. Published the article in Internet of Things journal
+![img](assets/img/elsevier.png)
 
 **Visiting Student Intern @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/), NANOvis Group (_May 2019 -- November 2019_)**
 - Worked on cell visualization and molecular graphics project
 - Developed an automated traversal of a 3D scene of biological structures using C++ and Qt framework
+![img](assets/img/kaust.png)
 
 **Front-End Software Engineer @ [KazDream Technologies LLC](https://www.kazdream.kz) (_February 2019 -- March 2019_)**
 - Implemented a login page, input validations, and a date-picker of the website using JavaScript, HTML5/CSS3, Vue.js. Logged outputs in GitLab, reviewed and fixed codes. Captured data from 3rd party APIs
 
 **Undergraduate Researcher @ [Nazarbayev University](https://nu.edu.kz/), Robotics Lab (_September 2018 -- December 2018_)**
 - Developed an [Android tablet app](https://github.com/Aydana1/Android_App_Nao_RemoteControl) in Java for medical staff to interact with a humanoid robot NAO to assist children with autism spectrum disorder. Established TCP connection between a tablet and  Choregraphe software
+![img](assets/img/nao.png)
 
 **Mobile Developer @ [nFactorial School](https://www.nfactorial.school/) (_June 2018 -- August 2018_)**
 - Created a React Native app [SpeechArt](https://github.com/Aydana1/SpeechArt)(1000+ downloads on Play Store) for correcting speech defects with tongue-twisters and became one of 6 finalists out of 100
+![img](assets/img/speechart.png)
 
 ## Projects
 ### [PDF Sentiment Analyzer](https://github.com/Aydana1/NLP_Sentiment_analysis) | _Python, Streamlit, tabula, pandas, NLTK, spaCy, HuggingFace, Transformers_
