@@ -63,7 +63,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 
 **Mobile Developer @ [nFactorial School](https://www.nfactorial.school/) (_June 2018 -- August 2018_)**
 - Created a React Native app [SpeechArt](https://github.com/Aydana1/SpeechArt)(1000+ downloads on Play Store) for correcting speech defects with tongue-twisters and became one of 6 finalists out of 100
-![img](assets/img/speechart.png)
+![img](assets/img/speechart.jpeg)
 
 ## Projects
 ### [PDF Sentiment Analyzer](https://github.com/Aydana1/NLP_Sentiment_analysis) | _Python, Streamlit, tabula, pandas, NLTK, spaCy, HuggingFace, Transformers_
