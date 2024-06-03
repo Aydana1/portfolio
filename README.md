@@ -11,7 +11,7 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 ![img](assets/img/graduation-cap.png)
 
 ### Technical Skills
-**Programming Languages:** Python, ![img](assets/img/python.png) C/C++, Java, JavaScript
+**Programming Languages:** Python, C/C++, Java, JavaScript
 
 **Libraries:** PyTorch/TensorFlow, pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, OpenCV, NLTK, spaCy, Streamlit
 
