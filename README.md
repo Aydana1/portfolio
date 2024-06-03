@@ -46,7 +46,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 
 **Machine Learning Engineer @ [Nazarbayev University](https://nu.edu.kz/) (_January 2020 -- January 2021_)**
 - Created an end-to-end ensemble of Random Forest Classifiers for time-series anomaly detection in health data
-- Obtained at least 79\% accuracy and 20\% false positive rate. Published the article in Internet of Things journal
+- Obtained at least 79% accuracy and 20% false positive rate. Published the article in Internet of Things journal
 ![img](assets/img/elsevier.png)
 
 **Visiting Student Intern @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/), NANOvis Group (_May 2019 -- November 2019_)**
