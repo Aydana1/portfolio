@@ -21,6 +21,8 @@ I studied Computer Science in my bachelor degree at Nazarbayev University in Kaz
 
 **Computer Vision Tasks:** Object detection, object recognition, classification, counting, segmentation
 
+**Machine Learning Tasks:** SHAPley values, X-AI, time-series anomaly detection, classification, regression, clustering
+
 ## Education
 MSc in Computer Vision @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae)  (_Jan. 2021 – Jan. 2023_)
 - Fully-funded Scholarship, CGPA: 3.67/4.0
