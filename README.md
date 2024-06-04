@@ -31,11 +31,14 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Coursework: Software Engineering, Operating Systems, Algorithms, Artificial Intelligence, Database Systems, Machine Learning, Performance and Data Structures, System Design and Analysis.
 
 ## Work Experience
+**Machine Learning Engineer Intern @ [TachyHealth](tachyhealth.com) (_June 2024 -- Present_)**
+- Working on Sustainability and Explainability for Fraud Detection in Healthcare Systems
+
 **Research Assistant @ [Zayed University](https://zu.ac.ae) (_June 2023 - September 2023_)** 
 - Composed a survey paper on privacy and trust issues in blockchain and edge computing resource allocation
 - Collaborated with a team to analyze and present data from 50+ surveys, leading to new research insights
 
-**Machine Learning Engineer (R&D) @ [FortyGuard](https://fortyguard.com) (_June 2023 – July 2023_)**
+**Machine Learning Engineer Intern (R&D) @ [FortyGuard](https://fortyguard.com) (_June 2023 – July 2023_)**
 - Utilized OS-Climate platform to analyze climate data for efficient data pipeline design
 - Assessed thermal comfort index datasets globally for indoor/outdoor environments
 
