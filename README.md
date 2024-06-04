@@ -33,7 +33,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Composed a survey paper on privacy and trust issues in blockchain and edge computing resource allocation
 - Collaborated with a team to analyze and present data from 50+ surveys, leading to new research insights
 
-**Machine Learning Engineer (R&D) @ [FortyGuard Tech](https://fortyguard.com) (_June 2023 – July 2023_)**
+**Machine Learning Engineer (R&D) @ [FortyGuard](https://fortyguard.com) (_June 2023 – July 2023_)**
 - Utilized OS-Climate platform to analyze climate data for efficient data pipeline design
 - Assessed thermal comfort index datasets globally for indoor/outdoor environments
 
