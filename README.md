@@ -31,7 +31,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Coursework: Software Engineering, Operating Systems, Algorithms, Artificial Intelligence, Database Systems, Machine Learning, Performance and Data Structures, System Design and Analysis.
 
 ## Work Experience
-**Machine Learning Engineer Intern @ [TachyHealth](tachyhealth.com) (_June 2024 -- Present_)**
+**Machine Learning Engineer Intern @ [TachyHealth](https://tachyhealth.com) (_June 2024 -- Present_)**
 - Working on Sustainability and Explainability for Fraud Detection in Healthcare Systems
 
 **Research Assistant @ [Zayed University](https://zu.ac.ae) (_June 2023 - September 2023_)** 
