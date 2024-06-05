@@ -48,7 +48,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Enhanced 3D detection performance of indoor scene objects using PyTorch and Transformer architecture
 - Achieved significant improvement in small-size category detection: 3.51% (picture) and 1.4% (garbage bin)
 
-**Computer Vision Engineer @ [AD Ports Group](https://www.adportsgroup.com/), Maqta Gateway (_October 2022 -- December 2022_)**
+**Computer Vision Engineer Intern @ [AD Ports Group](https://www.adportsgroup.com/), Maqta Gateway (_October 2022 -- December 2022_)**
 - Worked on Automated Cargo Recognition and Counting System to improve the operational efficiency of the port
 - Trained YOLOv5l model on custom dataset increasing accuracy from 95.9% to 98.8%
 ![img](assets/img/adports.png)
@@ -63,7 +63,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Developed an automated traversal of a 3D scene of HIV virus structures (RNA, DNA, protein cells) using C++ and Qt framework
 ![img](assets/img/kaust.jpeg)
 
-**Front-End Software Engineer @ [KazDream Technologies LLC](https://www.kazdream.kz) (_February 2019 -- March 2019_)**
+**Front-End Software Engineer Intern @ [KazDream Technologies LLC](https://www.kazdream.kz) (_February 2019 -- March 2019_)**
 - Implemented a login page, input validations, and a date-picker of the website using JavaScript, HTML5/CSS3, Vue.js. Logged outputs in GitLab, reviewed and fixed codes. Captured data from 3rd party APIs
 
 **Undergraduate Researcher @ [Nazarbayev University](https://nu.edu.kz/), Robotics Lab (_September 2018 -- December 2018_)**
