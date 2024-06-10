@@ -88,7 +88,7 @@ Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Sol
 
 ### [Fine-grained Classification](https://github.com/Aydana1/Assignm1_CV703) | _Python, PyTorch_
 
-Worked with three different datasets: Caltech’s CUB-200-2011, Stanford Dogs Dataset, and FoodX-251. Worked with models: ResNet34, ResNet50, ResNet101, Deit (Data-efficient transformer), ViT small, SEResNet50, NasNet. Proposed a novel model based on ResNetv2
+Worked with three different datasets: Caltech’s CUB-200-2011, Stanford Dogs Dataset, and FoodX-251. Worked with models: ResNet34, ResNet50, ResNet101, Deit (Data-efficient transformer), ViT small, SEResNet50, NasNet. Proposed a novel model based on ResNetv2. [Report link](https://github.com/Aydana1/Assignm1_CV703/blob/main/CV703_Assignment.pdf)
 
 ### [Large-Scale Aerial Image Recognition](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing) | _Python, PyTorch, Detectron2, Git_
 
