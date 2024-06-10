@@ -1,4 +1,4 @@
-# Data Scientist (last update Mon 10th June, 12.39PM (GCC time))
+# Data Scientist
 
 ## About Me
 🚀 AI-ML Specialist (3+ years exp.) with a Master's in Computer Vision. Experienced in developing AI solutions to real-world problems using Machine Learning, and Python, PyTorch, Tensorflow. Former Research Assistant at top tech institutions. Seeking roles in AI-ML, Data, and Applications.
