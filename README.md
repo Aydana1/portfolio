@@ -89,11 +89,11 @@ Worked with three different datasets: Caltech’s CUB-200-2011, Stanford Dogs Da
 
 ![img](assets/img/aeral_imgs.png) 
 
-Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9% on a large-scale aerial iSAID dataset. [Report link](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing)
+Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9% on a large-scale aerial iSAID dataset. Included skip-connections with upsampling for global feature extraction in FPN (feature pyramid network) and used shadowing augmentation to improve dataset quality. [Report link](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing)
 
 ### [Blood Cells Classification and Localization](https://github.com/Aydana1/Enhancing_YOLOv5l) | _Python, PyTorch, Git, Yolov5_
 
-Adapted \emph{YOLOv5l} towards BCCD (Blood Cell Count and Detection) dataset and obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells. [Report link](https://drive.google.com/file/d/1umxkXBlx5eDJopqg1EULexvF1S8ptKRP/view?usp=sharing) 
+Adapted \emph{YOLOv5l} towards BCCD (Blood Cell Count and Detection) dataset and obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells. Used copy-paste augmentation technique for fixing overfitting, focal loss for class imbalance reduction, and pre-trained Yolov5 model for better weight initialization. [Report link](https://drive.google.com/file/d/1umxkXBlx5eDJopqg1EULexvF1S8ptKRP/view?usp=sharing) 
 ![img](assets/img/yolo_vs_base.png)
 
 ### [Efficient Human Pose Estimation](https://mbzuaiac-my.sharepoint.com/:p:/g/personal/fatima_albreiki_mbzuai_ac_ae/ET2Fa51ZLStCgRFH_NYfdbgB2Uoqm2YxpkeXx-cd8_rvng?e=lqwldkhttps://github.com/Aydana1/TrainTicketing) | _Python, PyTorch_ 
