@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-🚀 AI-ML Specialist (3+ years exp.) with a Master's in Computer Vision. Experienced in 3D Visualization, Machine Learning, and Python, PyTorch, Tensorflow. Former Research Assistant at top tech institutions. Seeking roles in AI-ML, Data, and Applications.
+🚀 AI-ML Specialist (3+ years exp.) with a Master's in Computer Vision. Experienced in developing AI solutions to real-world problems using Machine Learning, and Python, PyTorch, Tensorflow. Former Research Assistant at top tech institutions. Seeking roles in AI-ML, Data, and Applications.
 
 I studied Computer Science in my bachelor degree at Nazarbayev University in Kazakhstan 🇰🇿. I did research in robotics 🤖 during my junior year and had my first paper published. I had summer internship at KAUST, Saudi Arabia in molecular visualization 🧬 and computer graphics. I participated in hackathons, did side projects and launched a React Native mobile app.  I completed MSc in Computer Vision at MBZUAI in Abu Dhabi and successfully defended my thesis 👩🏻‍🎓. My thesis result was accepted as a conference paper to VISAPP 2023 (part of VISSIGRAPP).
 
@@ -43,11 +43,11 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Collaborated with a team to analyze and present data from 50+ surveys, leading to new research insights
 
 **Machine Learning Engineer Intern (R&D) @ [FortyGuard](https://fortyguard.com) (_June 2023 – July 2023_)**
-- Utilized OS-Climate platform to analyze climate data for efficient data pipeline design
 - Assessed thermal comfort index datasets globally for indoor/outdoor environments
+- Created user stories based on consumer needs and company product features
 
 **Research Assistant @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae) (_February 2023 -- July 2023_)**
-- Enhanced 3D detection performance of indoor scene objects using PyTorch and Transformer architecture
+- Built 3D detection Transformer model and trained on point cloud ScanNetv2 dataset
 - Achieved significant improvement in small-size category detection: 3.51% (picture) and 1.4% (garbage bin)
 
 **Computer Vision Engineer Intern @ [AD Ports Group](https://www.adportsgroup.com/), Maqta Gateway (_October 2022 -- December 2022_)**
@@ -86,19 +86,23 @@ Sentiment analysis web interface using VaderSentiment with text parsed from pdf 
 Obtained 4.3% mAP on top of the baseline reducing inference speed by 1.7 ms. Solved the overlapping issue of red blood cells. [Report link](https://drive.google.com/file/d/1umxkXBlx5eDJopqg1EULexvF1S8ptKRP/view?usp=sharing) 
 ![img](assets/img/yolo_vs_base.png)
 
+### [Fine-grained Classification](https://github.com/Aydana1/Assignm1_CV703) | _Python, PyTorch_
+
+Worked with three different datasets: Caltech’s CUB-200-2011, Stanford Dogs Dataset, and FoodX-251. Worked with models: ResNet34, ResNet50, ResNet101, Deit (Data-efficient transformer), ViT small, SEResNet50, NasNet. Proposed a novel model based on ResNetv2
+
 ### [Large-Scale Aerial Image Recognition](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing) | _Python, PyTorch, Detectron2, Git_
 
 ![img](assets/img/aeral_imgs.png) 
 
-Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9% on a large-scale aerial dataset. [Report link](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing)
+Fine-tuned Faster R-CNN using Detectron2 framework and increased mAP of small objects by 1.9% on a large-scale aerial iSAID dataset. [Report link](https://drive.google.com/file/d/1v2-A-zfaRUac3rxw5UuM6IUqNB0qE0c7/view?usp=sharing)
 
 ### [Efficient Human Pose Estimation](https://mbzuaiac-my.sharepoint.com/:p:/g/personal/fatima_albreiki_mbzuai_ac_ae/ET2Fa51ZLStCgRFH_NYfdbgB2Uoqm2YxpkeXx-cd8_rvng?e=lqwldkhttps://github.com/Aydana1/TrainTicketing) | _Python, PyTorch_ 
 
-Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the ResNet Bottleneck. Improved the training speed by 25%
+Changed original Stacked Hourglass architecture by adding dilated and depthwise convolution filters in the ResNet Bottleneck. Improved the training speed by 25% on MPII Human Pose dataset
 
 ![img](assets/img/pose-est.png)
 
-### Retinal eye disease detection with Convolutional Neural Networks
+### Retinal Eye Disease Detection with Convolutional Neural Networks
 
 Experimented with various CNN networks such as LeNet, ResNet variants (ResNet32, ResNet50, ResNet101), VGG in PyTorch
 
