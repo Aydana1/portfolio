@@ -127,8 +127,8 @@ Database Systems course project: desktop app for reserving tickets for a train s
 
 ## Certifications
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9MB8V8BM8FKL) (Coursera)
-- [Neural Networks and Deep Learning](https://coursera.org/share/fdb61da55276c3e9bcf31bdda4d48f2f) (Coursera)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/2BX5TFRER94P) (Coursera)
 - Bertelsmann Data Science Scholarship program (Udacity)
-- Web Developer BootCamp (Udemy)
-- [Python Object Basics: Functions, Recursion, and Objects](https://coursera.org/share/c445d5a4b433433c97d3fa10d85d1abf) (Coursera)
-- [Python Data Structures](https://coursera.org/share/20e0d86355ac4bb3ec6465512e623d8f) (Coursera)
+- Web Developer BootCamp (Udemy) 
+- [Python Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/account/accomplishments/verify/MVKMZTY4HST8) (Coursera)
+- [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/8EYWTNEEM66E) (Coursera)
