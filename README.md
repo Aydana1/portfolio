@@ -38,7 +38,7 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 **Research Associate @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae) (_September 2024 -- Present_)**
 - Support research of humanoid robotics on the human motion capturing, biomechanical computation, as well as the data science of human movement (2D/3D pose estimation, tracking)
 
-**Machine Learning Engineer Intern @ [TachyHealth](https://tachyhealth.com) (_June 2024 -- Present_)**
+**Machine Learning Engineer Intern @ [TachyHealth](https://tachyhealth.com) (_June 2024 -- August 2024)**
 - Worked on Sustainability and Explainability for Fraud Detection in Healthcare Systems
 
 **Research Assistant @ [Zayed University](https://zu.ac.ae) (_June 2023 - September 2023_)** 
