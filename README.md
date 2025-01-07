@@ -35,8 +35,11 @@ BSc in Computer Science @ [Nazarbayev University](https://nu.edu.kz) (_Jul. 2016
 - Coursework: Software Engineering, Operating Systems, Algorithms, Artificial Intelligence, Database Systems, Machine Learning, Performance and Data Structures, System Design and Analysis.
 
 ## Work Experience
+**Research Associate @ [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae) (_September 2024 -- Present_)**
+- Support research of humanoid robotics on the human motion capturing, biomechanical computation, as well as the data science of human movement (2D/3D pose estimation, tracking)
+
 **Machine Learning Engineer Intern @ [TachyHealth](https://tachyhealth.com) (_June 2024 -- Present_)**
-- Working on Sustainability and Explainability for Fraud Detection in Healthcare Systems
+- Worked on Sustainability and Explainability for Fraud Detection in Healthcare Systems
 
 **Research Assistant @ [Zayed University](https://zu.ac.ae) (_June 2023 - September 2023_)** 
 - Composed a survey paper on privacy and trust issues in blockchain and edge computing resource allocation
